@@ -1,4 +1,4 @@
-# 🐈 Basic Cat Tinder App
+# 🐈 Basic Cat Browser App
 This is just an useless but cute tiny React App to test run experimental integrations and libraries
 
 
