@@ -1,2 +1,6 @@
-# basic-cat-app-for-experiments
-An app to browse cats that I use to run experiments and other stuff
+# 🐈 Basic Cat Tinder App
+This is just an useless but cute tiny React App to test run experimental integrations and libraries
+
+
+## Discplaimer
+This is totally not recommended to be used to find a partner for your cat
