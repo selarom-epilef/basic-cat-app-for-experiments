@@ -1,7 +1,4 @@
 {
-  "hosting": {
-    "public": "dist",
-  },
   "projects": {
     "default": "cat-browser-36080"
   }
